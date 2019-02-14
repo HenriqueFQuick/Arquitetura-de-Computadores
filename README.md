@@ -12,6 +12,8 @@ Arquivos no Logisim:
 
 	Multiplexador com Meio somador, and, nand, or, nor, xor e xnor
 	
+	Somador CLA com 7 Segment Display
+	
 Print de circuitos no SimuladorDigital97:
 
 	Meio Somador de 1 bit
