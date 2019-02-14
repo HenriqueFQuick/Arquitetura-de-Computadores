@@ -19,5 +19,7 @@ Print de circuitos no SimuladorDigital97:
 	2 Meio Somadores de 1 bit
 	
 	Somador completo de 1 bit
+	
+	Somador CLA com 7segment Display
 
 
