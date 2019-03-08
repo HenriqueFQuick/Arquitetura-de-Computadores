@@ -14,6 +14,10 @@ Arquivos no Logisim:
 	
 	Somador CLA com 7 Segment Display
 	
+	ULA de 1 bit
+	
+	ALU
+	
 Print de circuitos no SimuladorDigital97:
 
 	Meio Somador de 1 bit
@@ -23,5 +27,9 @@ Print de circuitos no SimuladorDigital97:
 	Somador completo de 1 bit
 	
 	Somador CLA com 7segment Display
+	
+	ULA de 1 bit
+	
+	ULA de 2 bits
 
 
